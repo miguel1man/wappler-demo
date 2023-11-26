@@ -1,21 +1,21 @@
 {
   "bootstrap4": {
     "basic": {
-      "primary": "#146e8f",
-      "secondary": "#082936",
-      "light": "#e0f3fb",
-      "dark": "#010709",
+      "primary": "#03317d",
+      "secondary": "#01122d",
+      "light": "#e1ecfe",
+      "dark": "#00060f",
       "info": "#29afe0",
       "headings-font-family": "Montserrat:700",
       "enable-responsive-font-sizes": true,
       "theme": "Signal",
-      "success": "#00b388",
+      "success": "#0561f5",
       "danger": "#291e5c",
-      "warning": "#c47100",
+      "warning": "#1057b5",
       "enable-shadows": true,
       "font-family-base": "Montserrat:500",
-      "body-color": "#e0f3fb",
-      "body-bg": "#010709",
+      "body-color": "#e1ecfe",
+      "body-bg": "#00060f",
       "font-family-sans-serif": "Montserrat:400"
     },
     "advanced": {
