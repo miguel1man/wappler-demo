@@ -37,3 +37,8 @@ h4.section-title {
 .style1 {
 	margin-bottom: 0px;
 }
+@media (min-width: 992px) {
+.style2 {
+		color: #6f42c1;
+	}
+}
