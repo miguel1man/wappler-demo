@@ -4,6 +4,10 @@ html {
 	scroll-behavior: smooth;
 }
 
+#appbx {
+	border-radius: 1em;
+}
+
 .container-fluid {
 	max-width: 1400px;
 }
@@ -45,6 +49,15 @@ h4.section-title {
 @media (min-width: 992px) {
 .style2 {
 		color: #6f42c1;
+	}
+.style4 {
+		font-size: 0.9rem;
+	}
+.style5 {
+		font-size: 0.9rem;
+	}
+.style6 {
+		font-size: 0.9rem;
 	}
 }
 @media (min-width: 768px) {
